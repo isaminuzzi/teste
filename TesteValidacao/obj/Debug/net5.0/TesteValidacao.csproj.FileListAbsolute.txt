@@ -1,0 +1,16 @@
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\bin\Debug\net5.0\TesteValidacao.exe
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\bin\Debug\net5.0\TesteValidacao.deps.json
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\bin\Debug\net5.0\TesteValidacao.runtimeconfig.json
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\bin\Debug\net5.0\TesteValidacao.runtimeconfig.dev.json
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\bin\Debug\net5.0\TesteValidacao.dll
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\bin\Debug\net5.0\TesteValidacao.pdb
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.csproj.AssemblyReference.cache
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.AssemblyInfoInputs.cache
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.AssemblyInfo.cs
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.csproj.CoreCompileInputs.cache
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.dll
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\refint\TesteValidacao.dll
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.pdb
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\TesteValidacao.genruntimeconfig.cache
+C:\Users\HDN\source\repos\TesteValidacao\TesteValidacao\obj\Debug\net5.0\ref\TesteValidacao.dll
